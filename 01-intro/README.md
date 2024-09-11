@@ -95,7 +95,7 @@ work locally, you only need to change a few lines of code.
 * Index the documents
 * Replace MinSearch with ElasticSearch
 
-Running ElasticSearch:
+<!-- Running ElasticSearch: -->
 
 ```bash
 docker run -it \
